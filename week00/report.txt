@@ -1,0 +1,3 @@
+Deskripsi tugas week 0 : Membuat akun github, lalu membuat repository di dalamnya. Kemudian mengisi form yang telah disediakan pada link yang telah diberikan.
+Deskripsi tugas week 1 : Mempelajari bagaimana clone git repository, mempelajari fungsi-fungsi di dalam git, memperkenalkan CLI, dan sciprting
+
