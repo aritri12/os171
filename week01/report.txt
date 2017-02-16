@@ -1,0 +1,1 @@
+Deskripsi tugas week1 : Mempelajari bagaimana clone git repository, mempelajari fungsi fungsi di dalam git, memperkenalkan CLI dan scripting
