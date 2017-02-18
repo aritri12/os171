@@ -20,3 +20,7 @@ drwxr-xr-x  2 ari.tri51 StafCS 4096 Feb 16 16:24 week09
 drwxr-xr-x  2 ari.tri51 StafCS 4096 Feb 16 16:24 week10
 drwxr-xr-x  2 ari.tri51 StafCS 4096 Feb 16 16:25 xtra
 /home/fasilkom/mahasiswa/a/ari.tri51/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 18 Feb 2017 at 11:34:16
