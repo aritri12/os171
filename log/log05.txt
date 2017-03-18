@@ -1,1 +1,9 @@
-log
+w05-170314-13-LR-Listening to lectures about memory, virtual memory
+w05-170314-13-LR-Listening to lectures about memory, virtual memory
+w05-170314-14-LR-Listening to lectures about memory, virtual memory
+w05-170316-13-LR-Listening to lectures about exercise for UTS preparation
+w05-170316-13-LR-Listening to lectures about exercise for UTS preparation
+w05-170316-14-LR-Listening to lectures about exercise for UTS preparation
+w05-170317-19-LR-Reading e-book Operating System Concepts
+w05-170318-07-PS-Doing lab for week 05
+w05-170318-08-PS-Doing lab for week 05
