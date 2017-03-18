@@ -1,1 +1,11 @@
-log
+w04-170307-13-LR-Listening to lectures about Variable, Pointer, Adressing
+w04-170307-13-LR-Listening to lectures about Variable, Pointer, Adressing
+w04-170307-14-LR-Listening to lectures about Variable, Pointer, Adressing
+w04-170308-20-LR-Reading books Operating System Concepts
+w04-170309-13-LR-Listening to lectures about I/O Programming
+w04-170309-13-LR-Listening to lectures about I/O Programming
+w04-170309-14-LR-Listening to lectures about I/O Programming
+w04-170310-20-PS-Doing lab for week 04
+w04-170310-21-PS-Doing lab for week 04
+w04-170310-22-PS-Doing lab for week 04
+w04-170311-07-PS-Doing lab for week 04
