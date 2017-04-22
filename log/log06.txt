@@ -1,0 +1,10 @@
+w07-170417-20-LR-Reading and learning os07-171.pdf
+w07-170418-13-LR-Listening to lecturer about synchronization
+w07-170418-13-LR-Listening to lecturer about synchronization
+w07-170418-14-LR-Listening to lecturer about synchronization
+w07-170419-19-LR-Learning week07-sync-thread demo from Github
+w07-170420-13-LR-Listening to lectures about schedulling
+w07-170420-13-LR-Listening to lectures about schedulling
+w07-170420-14-LR-Listening to lectures about schedulling & socket
+w07-170422-13-PS-Doing lab for week 07
+w07-170422-14-PS-Doing lab for week 07
