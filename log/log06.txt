@@ -1,0 +1,8 @@
+w06-170411-13-LR-Listening to lecturer about fork
+w06-170412-20-LR-Reading e-book Operating System Concepts Chapter 5 (Process Synchronization)
+w06-170413-13-LR-Listening to lectures about synchronization
+w06-170413-13-LR-Listening to lectures about synchronization
+w06-170413-14-LR-Listening to lectures about synchronization
+w06-170414-19-LR-Learning github.com/UI-FASILKOM-OS/demo
+w06-170414-23-PS-Doing lab for week 06
+w06-170415-00-PS-Doing lab for week 06
