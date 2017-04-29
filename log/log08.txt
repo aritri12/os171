@@ -1,1 +1,7 @@
-log08
+w08-170424-19-LR-Reading and learning os08-171.pdf
+w08-170425-13-LR-Listening to lecturer about CPU Utility, CPU Time, CPU Process
+w08-170425-13-LR-Listening to lecturer about CPU Utility, CPU Time, CPU Process
+w08-170425-14-LR-Listening to lecturer about CPU Utility, CPU Time, CPU Process
+w08-170426-19-LR-Learning schedulling-socket
+w08-170428-16-PS-Doing lab for week 08
+w08-170429-09-PS-Doing lab for week 08
